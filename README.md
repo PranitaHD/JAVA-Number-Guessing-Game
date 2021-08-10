@@ -1,0 +1,2 @@
+# JAVA-Number-Guessing-Game
+Language :- Java Programming. It is a program in Java which generates a random number using Random class and asks the player to guess it. If the player's guess is higher than the actual number, then the program will display a message "Smaller Number Please".  Similarly if the player's guess is lesser than the actual number, the program will display a message "Greater Number Please". When the user guesses the correct number,  the program will exit. You have 5 attempts to guess the random number. I have used NetBeans IDE here.
